@@ -20,6 +20,8 @@ public class frame extends JFrame {
         // Create and add the input panel
         JPanel inputPanel = createInputPanel();
         this.add(inputPanel, BorderLayout.NORTH);
+// peepeepoopoo
+
 
         // Create simulation panel
         simulationPanel = new JPanel();
